@@ -1,0 +1,295 @@
+{
+  "Связь и мессенджеры": [
+    {
+      "name": "Telegram",
+      "url": "https://apps.apple.com/ru/app/telegram-messenger/id686449807"
+    },
+    {
+      "name": "WhatsApp",
+      "url": "https://apps.apple.com/ru/app/whatsapp-messenger/id310633997"
+    },
+    {
+      "name": "VK Мессенджер",
+      "url": "https://apps.apple.com/ru/app/vk-messenger/id564177498"
+    },
+    {
+      "name": "VK Видео",
+      "url": "https://apps.apple.com/ru/app/vk-video/id1477797157"
+    },
+    {
+      "name": "Discord",
+      "url": "https://apps.apple.com/ru/app/discord-talk-chat-hang-out/id985746746"
+    },
+    {
+      "name": "Getcontact",
+      "url": "https://apps.apple.com/ru/app/getcontact/id1077271082"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://apps.apple.com/ru/app/chatgpt/id6448311069"
+    },
+    {
+      "name": "X.app",
+      "url": "https://apps.apple.com/ru/app/x/id1482454543"
+    },
+    {
+      "name": "Hommym",
+      "url": null
+    }
+  ],
+  "Браузеры и VPN": [
+    {
+      "name": "Chrome",
+      "url": "https://apps.apple.com/ru/app/google-chrome/id535886823"
+    },
+    {
+      "name": "Free VPN",
+      "url": "https://apps.apple.com/ru/app/free-vpn-by-freevpn-org/id994786777"
+    },
+    {
+      "name": "Browsec",
+      "url": "https://apps.apple.com/ru/app/browsec-vpn/id979382373"
+    },
+    {
+      "name": "VPN Buck",
+      "url": null
+    },
+    {
+      "name": "VPN Proxy Master",
+      "url": "https://apps.apple.com/ru/app/vpn-proxy-master-unlimited/id1050066617"
+    },
+    {
+      "name": "Secure Connection",
+      "url": null
+    }
+  ],
+  "Фото и видео": [
+    {
+      "name": "InShot",
+      "url": "https://apps.apple.com/ru/app/inshot-видеоредактор/id997362197"
+    },
+    {
+      "name": "Google Фото",
+      "url": "https://apps.apple.com/ru/app/google-photos/id962194608"
+    },
+    {
+      "name": "PS Express",
+      "url": "https://apps.apple.com/ru/app/photoshop-express-редактор/id331975235"
+    },
+    {
+      "name": "Imaging Edge",
+      "url": "https://apps.apple.com/ru/app/imaging-edge-mobile/id1239763067"
+    },
+    {
+      "name": "SUFLER.PRO",
+      "url": "https://apps.apple.com/ru/app/sufler-pro/id1532588789"
+    },
+    {
+      "name": "Doc Scanner",
+      "url": "https://apps.apple.com/ru/app/doc-scanner-app-pdf-scan/id1382924963"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://apps.apple.com/ru/app/youtube-watch-listen-stream/id544007664"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://apps.apple.com/ru/app/youtube-music/id1017492454"
+    },
+    {
+      "name": "Творческая студия YouTube",
+      "url": "https://apps.apple.com/ru/app/youtube-studio/id888530356"
+    },
+    {
+      "name": "Lightroom",
+      "url": "https://apps.apple.com/ru/app/adobe-lightroom-photo-editor/id878783582"
+    }
+  ],
+  "Образование и словари": [
+    {
+      "name": "Duolingo",
+      "url": "https://apps.apple.com/ru/app/duolingo-language-lessons/id570060128"
+    },
+    {
+      "name": "Quizlet",
+      "url": "https://apps.apple.com/ru/app/quizlet/id546473125"
+    },
+    {
+      "name": "Переводчик Google",
+      "url": "https://apps.apple.com/ru/app/google-translate/id414706506"
+    },
+    {
+      "name": "DeepSeek",
+      "url": null
+    },
+    {
+      "name": "Flo",
+      "url": "https://apps.apple.com/ru/app/flo-period-tracker-calendar/id1038369065"
+    },
+    {
+      "name": "To Do",
+      "url": "https://apps.apple.com/ru/app/microsoft-to-do/id1212616790"
+    },
+    {
+      "name": "TickTick",
+      "url": "https://apps.apple.com/ru/app/ticktick-to-do-list-calendar/id626144601"
+    }
+  ],
+  "Работа и финансы": [
+    {
+      "name": "hh работа",
+      "url": "https://apps.apple.com/ru/app/hh-работа/id484990822"
+    },
+    {
+      "name": "OfficeCapital",
+      "url": null
+    },
+    {
+      "name": "Альфа-Банк",
+      "url": "https://apps.apple.com/ru/app/альфа-банк/id511379276"
+    },
+    {
+      "name": "Госуслуги",
+      "url": "https://apps.apple.com/ru/app/госуслуги/id474436634"
+    },
+    {
+      "name": "Т Старт",
+      "url": null
+    },
+    {
+      "name": "Планы и Цели",
+      "url": null
+    },
+    {
+      "name": "Почта России",
+      "url": "https://apps.apple.com/ru/app/почта-россии/id1126481430"
+    },
+    {
+      "name": "Проверка авто",
+      "url": null
+    },
+    {
+      "name": "Циан",
+      "url": "https://apps.apple.com/ru/app/циан/id486156323"
+    }
+  ],
+  "Умный дом и утилиты": [
+    {
+      "name": "Xiaomi Home",
+      "url": "https://apps.apple.com/ru/app/xiaomi-home/id957323480"
+    },
+    {
+      "name": "Smart Life",
+      "url": "https://apps.apple.com/ru/app/smart-life-smart-living/id1115101477"
+    },
+    {
+      "name": "Smart Remote",
+      "url": null
+    },
+    {
+      "name": "Yoosee",
+      "url": "https://apps.apple.com/ru/app/yoosee/id1031884274"
+    },
+    {
+      "name": "Feiyu ON",
+      "url": "https://apps.apple.com/ru/app/feiyu-on/id1127766386"
+    },
+    {
+      "name": "LG ThinQ",
+      "url": "https://apps.apple.com/ru/app/lg-thinq/id993504342"
+    },
+    {
+      "name": "StepsApp",
+      "url": "https://apps.apple.com/ru/app/stepsapp-pedometer/id977049534"
+    },
+    {
+      "name": "RVNC Viewer",
+      "url": "https://apps.apple.com/ru/app/realvnc-viewer-remote-desktop/id352019548"
+    },
+    {
+      "name": "Authenticator",
+      "url": "https://apps.apple.com/ru/app/google-authenticator/id388497605"
+    },
+    {
+      "name": "Калькулятор+",
+      "url": null
+    },
+    {
+      "name": "Навигатор",
+      "url": null
+    },
+    {
+      "name": "Таблицы",
+      "url": "https://apps.apple.com/ru/app/google-sheets/id842849113"
+    },
+    {
+      "name": "Облако",
+      "url": null
+    },
+    {
+      "name": "Windows",
+      "url": null
+    }
+  ],
+  "Покупки и маркетплейсы": [
+    {
+      "name": "Ozon",
+      "url": "https://apps.apple.com/ru/app/ozon/id749083919"
+    },
+    {
+      "name": "Wildberries",
+      "url": "https://apps.apple.com/ru/app/wildberries/id597880187"
+    },
+    {
+      "name": "Авито",
+      "url": "https://apps.apple.com/ru/app/avito/id417281773"
+    },
+    {
+      "name": "Авто",
+      "url": null
+    },
+    {
+      "name": "ЛУКОЙЛ",
+      "url": null
+    },
+    {
+      "name": "Я.Маркет",
+      "url": "https://apps.apple.com/ru/app/yandex-market-online-shopping/id1369890634?l=en-GB"
+    },
+    {
+      "name": "Мегамаркет",
+      "url": null
+    },
+    {
+      "name": "Онлайн (Сбербанк)",
+      "url": null
+    },
+    {
+      "name": "Яндекс Маркет",
+      "url": "https://apps.apple.com/ru/app/яндекс-маркет/id1488126483"
+    }
+  ],
+  "Путешествия и транспорт": [
+    {
+      "name": "2ГИС",
+      "url": "https://apps.apple.com/ru/app/2gis/id481627348"
+    },
+    {
+      "name": "Яндекс Метро",
+      "url": "https://apps.apple.com/ru/app/яндекс-метро/id417626729"
+    },
+    {
+      "name": "Яндекс Карты",
+      "url": "https://apps.apple.com/ru/app/яндекс-карты/id313877526"
+    },
+    {
+      "name": "Аэрофлот",
+      "url": "https://www.aeroflot.ru/"
+    },
+    {
+      "name": "DJI Fly",
+      "url": "https://apps.apple.com/us/app/dji-fly/id1479649251"
+    }
+  ]
+}
+
