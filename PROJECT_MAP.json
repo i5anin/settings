@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "snapshot": "2026-10-30T14:47:11.360Z",
+  "project": "settings",
+  "root": ".",
+  "method": "static-local-index",
+  "limitations": [
+    "Нет динамических вызовов и сетевых интеграций",
+    "Сверять sha256 и evidence.line с текущими исходниками",
+    "Наличие зависимости не доказывает работоспособность"
+  ],
+  "nodes": [
+    {
+      "id": "project:settings",
+      "type": "project",
+      "name": "settings"
+    },
+    {
+      "id": "project:settings/file:PowerShell/Microsoft.PowerShell_profile.ps1",
+      "type": "file",
+      "path": "PowerShell/Microsoft.PowerShell_profile.ps1",
+      "sha256": "d31effdd501baa5167fd23a76949ff93e9bf25d30e6ee06ea12681cd17a42b78",
+      "bytes": 950
+    },
+    {
+      "id": "project:settings/file:PowerShell/README.md",
+      "type": "file",
+      "path": "PowerShell/README.md",
+      "sha256": "3df5603257a67ebdbfce118bca4a2bcc32890e395e1c27f765650df85ba2cc85",
+      "bytes": 489
+    },
+    {
+      "id": "project:settings/file:iPhone/readme.md",
+      "type": "file",
+      "path": "iPhone/readme.md",
+      "sha256": "c88a29cde59c54af4bcc4df637f27f6c4ae6ad1aa21ec54935e5f9501db53dc2",
+      "bytes": 2866
+    }
+  ],
+  "edges": [
+    {
+      "source": "project:settings",
+      "target": "project:settings/file:PowerShell/Microsoft.PowerShell_profile.ps1",
+      "relation": "contains",
+      "evidence": {
+        "path": "PowerShell/Microsoft.PowerShell_profile.ps1"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:settings",
+      "target": "project:settings/file:PowerShell/README.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "PowerShell/README.md"
+      },
+      "method": "filesystem"
+    },
+    {
+      "source": "project:settings",
+      "target": "project:settings/file:iPhone/readme.md",
+      "relation": "contains",
+      "evidence": {
+        "path": "iPhone/readme.md"
+      },
+      "method": "filesystem"
+    }
+  ]
+}
